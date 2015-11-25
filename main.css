@@ -1,0 +1,38 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+nav {
+	margin: 0px;
+	border: 1px solid #A9A9A9;
+	background-color: #A9A9A9;
+}
+
+ul {
+	margin: 0;
+	text-align: center;
+
+}
+
+li {
+	display: inline-block;
+	padding: 5px 50px 0px 50px;
+}
+
+a {
+	text-decoration: none;
+	letter-spacing: 1px;
+	font-size: 19px;
+	color: white;
+	font-family: Arial;
+}
